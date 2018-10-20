@@ -1,9 +1,11 @@
 SIMPLE RAILS 5 REST API
-Basic REST API to perform CRUD functions.
+<p>Basic REST API to perform CRUD functions.</p>
 
-INSTALL DEPENDENCIES
-$ bundle install
-RUN MIGRATION
-$ rails db:migrate
-RUN SERVER
-$ rails s
+<p>INSTALL DEPENDENCIES </p>
+<p>$ bundle install</p>
+
+<p>RUN MIGRATION</p>
+$ rails db:migrate</p>
+
+<p>RUN SERVER</p>
+<p>$ rails s</p>
