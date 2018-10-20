@@ -1,24 +1,9 @@
-# README
+SIMPLE RAILS 5 REST API
+Basic REST API to perform CRUD functions.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+INSTALL DEPENDENCIES
+$ bundle install
+RUN MIGRATION
+$ rails db:migrate
+RUN SERVER
+$ rails s
